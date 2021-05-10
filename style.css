@@ -1,0 +1,60 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.Travel_Main{
+    border:1px solid grey;
+    padding-left: 0px;
+    padding-right: 0px;
+    float:none;
+}
+.Travel_Main img{
+    width:100%;
+}
+.Travel_Main h4,.Travel_Main p{
+    margin-left:20px;
+}
+.Travel_Main hr{
+    width:230px;
+background-color:aqua;
+}
+.Movie_Head{
+    font-size=25px;
+    padding:6px 22px;
+    border-radius:10px;
+    width:100%;
+    margin-bottom:15px;
+    display:inline-block;
+}
+.Movie_Head i{
+    float:right;
+}
+.Movie_Text span{
+    color:gold;
+}
+.modal-content{
+    margin-top:100px;
+}
+.img_modal{
+    display:inline-block;
+    height:300px;
+}
+.modal-body{
+    text-align:center;
+}
+#ER{
+    height:200px;
+}
